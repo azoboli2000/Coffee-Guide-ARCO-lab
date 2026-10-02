@@ -4,7 +4,7 @@ This repository provides a concise operating guide for the coffee, snack, and co
 
 ## 1. Start the machine
 
-![Start screen with activation symbol highlighted](images/01-start-screen-activation-symbol.jpg)
+![Start screen with activation symbol highlighted](01-start-screen-activation-symbol.jpg)
 
 1. Tap **TOUCH TO START**.
 2. If the screen does not respond, tap the **symbol in the upper-right corner** of the display, highlighted in red in the image above.
@@ -14,7 +14,7 @@ This repository provides a concise operating guide for the coffee, snack, and co
 
 ## 2. Select a hot beverage
 
-![Hot beverage selection menu](images/02-beverage-menu.jpg)
+![Hot beverage selection menu](02-beverage-menu.jpg)
 
 1. Tap the image corresponding to the desired beverage.
 2. Follow the payment instructions shown on the machine.
@@ -24,7 +24,7 @@ This repository provides a concise operating guide for the coffee, snack, and co
 
 ## 3. If the beverage selection does not respond
 
-![Machine overview showing the change/refund control](images/04-machine-controls.jpg)
+![Machine overview showing the change/refund control](04-machine-controls.jpg)
 
 If the beverage menu remains unresponsive after waiting:
 
@@ -36,7 +36,7 @@ If the beverage menu remains unresponsive after waiting:
 
 ## 4. Buy snacks or cold drinks
 
-![Product-code entry screen for snacks and cold drinks](images/03-snack-selection.jpg)
+![Product-code entry screen for snacks and cold drinks](03-snack-selection.jpg)
 
 1. Tap the **sandwich icon** at the top of the display.
 2. Enter the **product number** corresponding to the desired snack or cold drink.
